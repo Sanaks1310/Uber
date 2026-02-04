@@ -32,7 +32,7 @@ Peak Gap Periods: Discovered that the highest supply shortage occurs during even
 Cancellation Patterns: Identified that "Cancelled by Driver" is most frequent in the morning, while "No Cars Available" peaks at night.
 Revenue Optimization: Highlighted high-distance routes that contribute most to the total fare revenue.
 
-##How to Use
+## How to Use
 Clone this repository.
 Open the Uber_Analysis.pbix file.
 Ensure your Power BI version is updated to view all custom visuals.

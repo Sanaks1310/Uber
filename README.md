@@ -36,3 +36,7 @@ Revenue Optimization: Highlighted high-distance routes that contribute most to t
 Clone this repository.
 Open the Uber_Analysis.pbix file.
 Ensure your Power BI version is updated to view all custom visuals.
+
+##ScreenShots
+<img width="1157" height="637" alt="image" src="https://github.com/user-attachments/assets/b56ea085-6d46-4fe0-af33-e77b9fcd4925" />
+<img width="1078" height="640" alt="image" src="https://github.com/user-attachments/assets/da7034f7-68bc-436c-87a1-7389ea808334" />
